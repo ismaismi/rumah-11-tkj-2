@@ -1,0 +1,3 @@
+MAKANAN: SEBLAK 
+         AYAM GORENG 
+         AYAM GEPREK
